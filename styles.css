@@ -603,6 +603,45 @@ main {
     border-top: none;
 }
 
+/* Additional Info Page */
+.additional-info-section {
+    margin: 2.5rem 0;
+}
+
+.additional-info-section h2 {
+    margin-top: 2rem;
+}
+
+.additional-info-section h2:first-of-type {
+    margin-top: 0;
+}
+
+.eval-block {
+    margin: 1.5rem 0;
+    padding: 1rem 0;
+    border-left: 4px solid #e0e0e0;
+    padding-left: 1.25rem;
+}
+
+.eval-block h5 {
+    font-size: 1rem;
+    margin: 0 0 0.5rem 0;
+    color: #1a1a1a;
+    font-weight: 600;
+}
+
+.architecture-level {
+    margin: 2rem 0;
+    padding: 1.25rem;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    border-left: 4px solid #1a1a1a;
+}
+
+.architecture-level h3 {
+    margin-top: 0;
+}
+
 .sources-list {
     display: grid;
     gap: 1rem;
