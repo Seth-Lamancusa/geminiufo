@@ -1,0 +1,308 @@
+{
+  "owned_content": {
+    "my_video": "https://youtu.be/JAGEsUFrj5E",
+    "eds_books": ""
+  },
+  "stitch_guests_s1": {
+    "Tracy (Folkloring)": "mid January",
+    "Ed": "",
+    "Dr. Brown": "",
+    "Yaseen": "",
+    "Olivia": ""
+  },
+  "appearances": {
+    "Beckwith Podcast (MUFON)": {
+      "contact": [
+        "1-307-389-4017"
+      ],
+      "names": [
+        "Richard Beckwith"
+      ],
+      "status": "online",
+      "content_links": [
+        "https://www.youtube.com/watch?v=58IQaXQFabY"
+      ],
+      "appearance_datetime": "unknown",
+      "content_downloaded": false,
+      "parsedDate": null,
+      "notes": ""
+    },
+    "Across the Pond": {
+      "contact": [],
+      "names": [
+        "Lee Day"
+      ],
+      "status": "online",
+      "content_links": [
+        "https://www.youtube.com/watch?v=UzXwoONfPxI"
+      ],
+      "appearance_datetime": "unknown",
+      "content_downloaded": false,
+      "parsedDate": null,
+      "notes": ""
+    },
+    "Folkloring": {
+      "contact": [
+        "folkloringpod@gmail.com"
+      ],
+      "names": [
+        "Tracy"
+      ],
+      "status": "recorded",
+      "content_links": [],
+      "appearance_datetime": "unknown",
+      "content_downloaded": false,
+      "notes": "With Ed and Tracy.",
+      "parsedDate": null
+    },
+    "Folkloring (second appearance)": {
+      "contact": [
+        "folkloringpod@gmail.com"
+      ],
+      "names": [
+        "Tracy"
+      ],
+      "status": "recorded",
+      "content_links": [],
+      "appearance_datetime": "Thursday, November 20, 2025, 2pm ET",
+      "content_downloaded": false,
+      "notes": "With just Tracy",
+      "parsedDate": null
+    },
+    "Podcast UFO": {
+      "contact": [
+        "martin@podcastufo.com"
+      ],
+      "names": [
+        "Martin"
+      ],
+      "status": "recorded",
+      "content_links": [
+        "https://www.youtube.com/live/5vA0aPBU_dg"
+      ],
+      "appearance_datetime": "Dec 9, 2025, 8:45pm ET",
+      "content_downloaded": false,
+      "parsedDate": null,
+      "notes": "Ed only",
+      "recording_link": ""
+    },
+    "Light Talk": {
+      "contact": [
+        "lighttalk423@gmail.com"
+      ],
+      "names": [
+        "Dana"
+      ],
+      "status": "online",
+      "content_links": [
+        "https://youtu.be/zynP43VhD9Y"
+      ],
+      "appearance_datetime": "Dec 4, 2025, 6pm ET",
+      "content_downloaded": false,
+      "parsedDate": null,
+      "notes": "Open to additional recordings",
+      "recording_link": ""
+    },
+    "Going in Blind": {
+      "contact": [
+        "contact.goinginblind@gmail.com"
+      ],
+      "names": [
+        "Zach"
+      ],
+      "status": "scheduled",
+      "content_links": [],
+      "appearance_datetime": "Jan 9, 7:30pm",
+      "content_downloaded": false,
+      "parsedDate": null,
+      "notes": "",
+      "recording_link": ""
+    },
+    "Prepper Network": {
+      "contact": [],
+      "names": [],
+      "status": "offered",
+      "content_links": [],
+      "appearance_datetime": "TBD",
+      "content_downloaded": false,
+      "parsedDate": null,
+      "notes": ""
+    },
+    "Email and Coffee with Joi Brooks": {
+      "contact": [],
+      "names": [],
+      "status": "offered",
+      "content_links": [],
+      "appearance_datetime": "TBD",
+      "content_downloaded": false,
+      "parsedDate": null,
+      "notes": ""
+    },
+    "Healthy Wealth Experience (Chris)": {
+      "contact": [
+        "healthywealthexperience@gmail.com",
+        "(530) 377-6884"
+      ],
+      "names": [
+        "Chris Hall"
+      ],
+      "status": "recorded",
+      "content_links": [
+        "https://podcasts.apple.com/us/podcast/ep-31-nasa-ufo-evidence-revealed-w-ed-wilson-seth-lamancusa/id1828655027?i=1000742191348"
+      ],
+      "appearance_datetime": "Nov 21, 2025, 3pm ET",
+      "content_downloaded": false,
+      "parsedDate": null,
+      "notes": ""
+    },
+    "Trifecta": {
+      "contact": [
+        "authorkatiepaige@gmail.com",
+        "303-905-4853"
+      ],
+      "names": [
+        "Katie Paige"
+      ],
+      "status": "scheduled",
+      "content_links": [
+        "https://podcasts.apple.com/us/podcast/the-simpkinson-nasa-ufo-archive-gemini-xi-anomalies/id1842029866?i=1000747123778&l=fr-FR"
+      ],
+      "appearance_datetime": "Jan 28, 2026, 9pm ET",
+      "content_downloaded": false,
+      "parsedDate": null,
+      "notes": "",
+      "recording_link": ""
+    },
+    "Zero Signal": {
+      "contact": [
+        "zerosignalpodcast@gmail.com"
+      ],
+      "names": [
+        "David Green"
+      ],
+      "status": "scheduled",
+      "appearance_datetime": "Dec 17, 7pm ET",
+      "parsedDate": null,
+      "content_links": [],
+      "notes": ""
+    },
+    "Let's Find Out with Diego..": {
+      "contact": [
+        "diegothepodcaster@gmail.com",
+        "703-731-9985"
+      ],
+      "names": [
+        "Diego 'Raf'"
+      ],
+      "status": "scheduled",
+      "content_links": [],
+      "appearance_datetime": "Jan 9, 2026, 7:30pm ET",
+      "content_downloaded": false,
+      "parsedDate": null,
+      "notes": "",
+      "recording_link": ""
+    },
+    "Too Hard for the Radio": {
+      "appearance_datetime": "Dec 11, 4pm",
+      "status": "recorded",
+      "names": [
+        "Nick Meyer"
+      ],
+      "contact": [
+        "nickmeyer1581@gmail.com"
+      ],
+      "content_links": [],
+      "recording_link": "https://us02web.zoom.us/j/84150431205",
+      "notes": "ed only",
+      "parsedDate": null
+    },
+    "The Logan James Podcast": {
+      "appearance_datetime": "Dec 16, 2pm",
+      "status": "recorded",
+      "names": [
+        "Logan James"
+      ],
+      "contact": [
+        "loganjamespodcast@outlook.com"
+      ],
+      "content_links": [
+        "https://youtu.be/n-6_MpCFdKs?si=Kt-0PwhhjS3WbH5F"
+      ],
+      "recording_link": "",
+      "notes": "",
+      "parsedDate": null
+    },
+    "Hodgepod": {
+      "appearance_datetime": "Dec 18, 8pm",
+      "status": "scheduled",
+      "names": [
+        "Rob Fredette"
+      ],
+      "contact": [
+        "hodgepodallin@yahoo.com"
+      ],
+      "content_links": [],
+      "recording_link": "",
+      "notes": "",
+      "parsedDate": null
+    },
+    "Garden of Thought": {
+      "appearance_datetime": "Dec 21, 2pm",
+      "status": "scheduled",
+      "names": [
+        "Jeff Lipman"
+      ],
+      "contact": [
+        "lippman.jeff@gmail.com"
+      ],
+      "content_links": ["https://www.spreaker.com/episode/garden-of-thought-e-345-the-simpkinson-nasa-ufo--69207097"],
+      "recording_link": "",
+      "notes": "",
+      "parsedDate": null
+    },
+    "Anything and Everything (Gay)": {
+      "appearance_datetime": "Dec 18th, 2pm",
+      "status": "scheduled",
+      "names": [
+        "Zachary Randles-Friedman"
+      ],
+      "contact": [
+        "zach@everythingandanythingpodcast.com"
+      ],
+      "content_links": [],
+      "recording_link": "",
+      "notes": "",
+      "parsedDate": null
+    },
+    "Vancrux": {
+      "appearance_datetime": "2pm, Dec 17",
+      "status": "online",
+      "names": [
+        "Jeevan Matharu"
+      ],
+      "contact": [
+        "jeevan.matharu@thevancruxlabel.com"
+      ],
+      "content_links": ["https://youtu.be/lS1pMyCMrzU", "https://open.spotify.com/episode/2fnSzX0QRyLFK86AZnt9aM?si=b2c7391f87b34845"],
+      "recording_link": "",
+      "notes": "",
+      "parsedDate": null
+    }
+  },
+  "commentary": {
+    "Psicoactivo": {
+      "source": "Psicoactivo",
+      "description": "YouTube video mention/reference to the GeminiUFO photo.",
+      "mention_datetime": "unknown",
+      "link": "https://youtu.be/9zf-nNo2ShA?si=SqAeA47ojTLDdeL8",
+      "content_downloaded": true
+    },
+    "Area52": {
+      "source": "Area52",
+      "description": "YouTube podcast mention at 2:18:54.",
+      "mention_datetime": "unknown",
+      "link": "https://youtu.be/wuLrm1syaoI?si=m-zvpZc2JWFqCBBX",
+      "content_downloaded": true
+    }
+  }
+}
