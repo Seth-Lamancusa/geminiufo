@@ -54,6 +54,10 @@ nav {
 .nav-links a:hover {
     color: #1a1a1a;
 }
+.nav-links a[aria-current="page"] {
+    color: #1a1a1a;
+    font-weight: 700;
+}
 
 main {
     max-width: 1200px;
@@ -298,6 +302,25 @@ main {
     color: #0052a3;
 }
 
+.btn-secondary {
+    display: inline-block;
+    padding: 0.6rem 1.25rem;
+    background-color: transparent;
+    color: #1a1a1a;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+    font-size: 0.85rem;
+    border: 1px solid #c8c8c8;
+}
+
+.btn-secondary:hover {
+    background-color: #f1f1f1;
+    border-color: #b0b0b0;
+}
+
+
 /* Content Sections */
 .content {
     background-color: #fff;
@@ -362,6 +385,127 @@ main {
     margin-bottom: 1.5rem;
     font-style: italic;
 }
+
+.merch-eyebrow {
+    display: inline-block;
+    margin-bottom: 0.75rem;
+    padding: 0.25rem 0.7rem;
+    border-radius: 999px;
+    background: linear-gradient(135deg, #1a1a1a, #4f4f4f);
+    color: #fff;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.merch-simple {
+    display: grid;
+    grid-template-columns: minmax(240px, 320px) 1fr;
+    gap: 1.5rem;
+    align-items: start;
+    margin-top: 1rem;
+}
+
+.merch-poster-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12);
+}
+
+.merch-simple-copy p:last-of-type {
+    margin-bottom: 0;
+}
+
+.merchandise-section .lead {
+    max-width: 70ch;
+}
+
+.merch-hero {
+    padding: 1rem 0 1.5rem 0;
+}
+
+.merch-cta-row {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-top: 1.25rem;
+}
+
+.merch-layout {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin: 1.5rem 0;
+}
+
+.merch-card-feature {
+    padding: 1.5rem;
+    border-radius: 14px;
+    background: linear-gradient(180deg, #ffffff 0%, #f7f5ef 100%);
+    border: 1px solid #e0dacd;
+    box-shadow: 0 10px 24px rgba(0,0,0,0.06);
+}
+
+.merch-card-dark {
+    background: linear-gradient(180deg, #1e1e1e 0%, #2d2d2d 100%);
+    color: #f4f1ea;
+    border-color: #3d3d3d;
+}
+
+.merch-card-dark h2,
+.merch-card-dark p,
+.merch-card-dark li {
+    color: #f4f1ea;
+}
+
+.merch-badge {
+    display: inline-block;
+    margin-bottom: 0.75rem;
+    padding: 0.35rem 0.75rem;
+    border-radius: 999px;
+    background-color: #d7c6a2;
+    color: #1a1a1a;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.merch-list {
+    padding-left: 1.2rem;
+    margin-top: 1rem;
+}
+
+.merch-list li {
+    margin-bottom: 0.85rem;
+}
+
+.merch-note {
+    margin-top: 1.5rem;
+    padding: 1.25rem 1.5rem;
+    border-radius: 12px;
+    background: radial-gradient(circle at top left, rgba(215,198,162,0.35), rgba(255,255,255,0.95));
+    border: 1px solid #e4ddcf;
+}
+
+.merch-note h2 {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: none;
+}
+
+.merch-card {
+    border-left: 4px solid #a78b5f;
+    background: linear-gradient(180deg, #fbf7ee 0%, #f4efe4 100%);
+}
+
+.merch-card p {
+    margin-bottom: 1rem;
+}
+
 
 .content ul, .content ol {
     margin: 1rem 0;
@@ -760,10 +904,20 @@ footer {
     }
 
     .nav-links {
-        gap: 1rem;
         flex-wrap: wrap;
         justify-content: center;
+        gap: 1rem 1.25rem;
     }
+
+    .merch-cta-row {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .merch-simple {
+        grid-template-columns: 1fr;
+    }
+
 
     main {
         padding: 0 1rem;
